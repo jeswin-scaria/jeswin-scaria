@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi 👋, I'm Jeswin Scaria
 
-<!--
-**jeswin-scaria/jeswin-scaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Aspiring Developer | 🤖 Robotics & Data Science Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🌱 Currently learning Python, R, Data Science and Big Data
+- 🤖 Interested in Robotics, Artificial Intelligence and Machine Learning
+- 💡 I enjoy building small and experimental projects
+- 🚀 Exploring new technologies and improving my skills
+- 🎯 My goal is to learn, build and grow as a developer
+
+---
+
+## 🛠️ Skills
+
+### Programming Languages
+- Python
+- R
+- C
+- Java
+
+### Technologies & Tools
+- Git & GitHub
+- VS Code
+- Apache Spark
+
+### Areas of Interest
+- Data Science
+- Machine Learning
+- Artificial Intelligence
+- Robotics
+- Big Data
+
+---
+
+## 📂 Projects
+
+🚧 More projects coming soon!
+
+I am currently learning and building projects to improve my practical skills.
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: @jeswin-scaria
+- LinkedIn: Coming soon
+
+---
+
+⭐ Thanks for visiting my profile!
